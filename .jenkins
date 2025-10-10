@@ -1,0 +1,19 @@
+pipeline{
+    agent any
+    
+    stages{
+        stage('FirstTest'){
+            steps{
+                script{
+                    echo "hell-O World"
+                }
+            }
+        }
+    }
+    
+    post{
+        success{
+            echo "Done"
+        }
+    }
+}
