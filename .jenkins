@@ -2,7 +2,7 @@ pipeline{
     agent any
     
     stages{
-        stage('FirstTest'){
+        stage('FirstTesta'){
             steps{
                 script{
                     echo "hell-O World"
