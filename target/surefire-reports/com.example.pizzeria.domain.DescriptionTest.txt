@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.pizzeria.domain.DescriptionTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.020 s -- in com.example.pizzeria.domain.DescriptionTest
